@@ -1,7 +1,7 @@
 ---
 course_feature_tags: []
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-962-general-relativity-spring-2020/d9b8306308634b958611e74495d70b5b_Screenshot_from_2019-05-02_20-24-47.png
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-962-general-relativity-spring-2020/d9b8306308634b958611e74495d70b5b_Screenshot_from_2019-05-16_11-16-25.png
 image_metadata:
   caption: ''
   credit: ''
