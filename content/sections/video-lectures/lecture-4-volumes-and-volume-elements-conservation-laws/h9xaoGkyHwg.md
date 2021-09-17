@@ -6,7 +6,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-resourcetype: Image
+resourcetype: Document
 title: 3play pdf file 2nd
 type: resource
 uid: 18342192-00f6-799c-5fa9-1ccd31f3bcab
