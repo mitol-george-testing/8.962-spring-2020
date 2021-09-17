@@ -6,7 +6,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-resourcetype: Video
+resourcetype: Image
 title: new content
 type: resource
 uid: 97435430-02f6-48ad-8237-9a4f0ac37659
