@@ -1,0 +1,42 @@
+{
+  "level": "",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Polymers"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "239d3f09-230f-0e30-4255-cc85fa68b8c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "course_title": "Fake General Relativity",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
