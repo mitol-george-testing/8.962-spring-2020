@@ -1,19 +1,10 @@
 {
-  "level": "",
+  "level": "Graduate",
   "topics": [
     [
-      "Engineering",
-      "Chemical Engineering",
-      "Polymers"
-    ],
-    [
-      "Fine Arts",
-      "Media Studies"
-    ],
-    [
-      "Fine Arts",
-      "Media Studies",
-      "Digital Media"
+      "Science",
+      "Physics",
+      "Relativity"
     ]
   ],
   "instructors": {
@@ -22,21 +13,16 @@
     ],
     "website": "ocw-www"
   },
-  "course_image": {
-    "content": "",
-    "website": "8-962-general-relativity-spring-2020"
-  },
-  "course_title": "Fake General Relativity",
-  "course_description": "",
+  "course_title": "General Relativity",
+  "course_description": "8.962 is MIT's graduate course in general relativity, which covers the basic principles of Einstein's general theory of relativity, differential geometry, experimental tests of general relativity, black holes, and cosmology.\n",
   "department_numbers": [
-    "3"
+    "8"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "3",
-  "course_image_thumbnail": {
-    "content": "",
-    "website": "8-962-general-relativity-spring-2020"
-  },
-  "learning_resource_types": [],
+  "primary_course_number": "8.962",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets"
+  ],
   "title": "Course Metadata"
 }
